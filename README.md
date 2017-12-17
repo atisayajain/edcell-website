@@ -1,6 +1,6 @@
 # [Entrepreneurship Development Cell - RCCIIT](http://rccedcell.org/)
 
-Repository for [Entrepreneurship Development Cell, RCCIITB](http://rccedcell.org/) created by [Atisaya Jain](https://github.com/atisayajain).
+Repository for [Entrepreneurship Development Cell, RCCIIT](http://rccedcell.org/) created by [Atisaya Jain](https://github.com/atisayajain).
 
 ## Preview
 
